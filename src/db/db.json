@@ -1,1 +1,31 @@
-[]
+{
+  "id": "56f35782-f17f-41d4-8092-6fb9ca7e311a",
+  "name": "Claire Green",
+  "phone": "(406) 934-9024 x02685",
+  "email": "Hans_Runolfsdottir42@yahoo.com",
+  "job": "Legacy Data Developer"
+}{
+  "id": "74e7ad60-3578-4dab-88b4-9f1e521e114d",
+  "name": "Kristy Huel PhD",
+  "phone": "(793) 746-8085",
+  "email": "Gertrude.Dietrich@gmail.com",
+  "job": "Central Accountability Director"
+}{
+  "id": "88b07e2d-6f47-4f2c-9a9c-4a7ce00f2cfa",
+  "name": "Theodore Grant",
+  "phone": "(651) 249-9378",
+  "email": "Dudley_Stehr@hotmail.com",
+  "job": "Central Marketing Coordinator"
+}{
+  "id": "f9e72978-7105-4d94-bdba-c1861b7f11f0",
+  "name": "Lamar Reichel",
+  "phone": "543-489-8193 x363",
+  "email": "Carrie_Johns@hotmail.com",
+  "job": "National Creative Developer"
+}{
+  "id": "313995a0-596d-4c31-ac8c-8e8d233a18b6",
+  "name": "Tracy Kovacek IV",
+  "phone": "(208) 836-0372 x00112",
+  "email": "Elinore.Krajcik@yahoo.com",
+  "job": "Regional Creative Engineer"
+}
