@@ -4,9 +4,11 @@ import { createFakeContact } from '../utils/createFakeContact.js';
 
 export const addOneContact = async () => {
   try {
-    await fs.appendFile(
+    const data = await fs.readFile(PATH_DB, 'utf-8');
+    const contacts = JSON.parse(data);
+    await fs.writeFile(
       PATH_DB,
-      JSON.stringify(createFakeContact(), undefined, 2),
+      JSON.stringify([...contacts, createFakeContact()], undefined, 2),
     );
   } catch (error) {
     console.error(error);
